@@ -1,0 +1,70 @@
+*{
+	margin:50;
+	padding: 30;
+	margin-left: : 30%;
+	box-sizing: border-box;
+}
+body{
+	background: #b5b3b3;
+	position:center;
+	font-family: "Times New Roman", Times, serif;
+}
+.box{
+	margin-top: 30%;
+	
+}
+.box h1{
+	font-family:  cursive;
+	font-size: 50px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+.team{
+	display: flex;
+	text-align: center;
+	width: auto;
+}
+.team .team_member1{
+	background: #fff;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 300px;
+	padding: 20px;
+	line-height:20px;
+	color: black;
+	position: relative;
+}
+.team .team_member h3{
+color:#696564;
+ font-size: 26px;
+ margin-top: 50px;
+}
+.team .team_member p{
+	color: #ccc;
+	font-size: 12px;
+	margin: 12px 0;
+}
+.team .team_memner .team_img{
+	width: 100px;
+	height: 50px;
+}
+.team .team_member2{
+	background: #fff;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 300px;
+	padding: 20px;
+	line-height:20px;
+	color: black;
+	position: relative;
+}
+	.team .team_member3{
+	background: #fff;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 300px;
+	padding: 20px;
+	line-height:20px;
+	color: black;
+	position: relative;
+		}
